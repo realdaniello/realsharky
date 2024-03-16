@@ -19,7 +19,7 @@
 - :office: &nbsp;I'm currently at the age of 16
 - :palestinian_territories: &nbsp;I'm currently living in Palestine
 - :seedling: &nbsp;I’m currently working on my project **[Florida DM - Official Bot](https://github.com/realsharky/florida-dm)**
-- :book: &nbsp;Learn more about my respositories **[Respositories](https://github.com/realsharky?tab=repositories)**
+- :book: &nbsp;Learn more about my **[Respositories](https://github.com/realsharky?tab=repositories)**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page](https://github.com/realsharky/realsharky/issues)**
 
 <br>
