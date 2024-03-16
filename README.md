@@ -1,4 +1,4 @@
-w<h1 align="left" id="macropower-title">:wave: Hello there! I'm Shark</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Shark</h1>
 
 <p align="left">
   <a href="https://github.com/realsharky/">
