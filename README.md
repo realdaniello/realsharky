@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="left" id="shark-table">Shark's Table</h2>
+<h2 align="left" id="shark-table">Daniello's Table</h2>
 
 > The languages I am currently studying, and the games I regularly play
 
